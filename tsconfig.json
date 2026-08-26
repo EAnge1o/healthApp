@@ -1,0 +1,33 @@
+{
+  "compilerOptions": {
+    "target": "ES2020",
+    "module": "ESNext",
+    "moduleResolution": "bundler",
+    "strict": true,
+    "jsx": "preserve",
+    "noEmit": true,
+    "isolatedModules": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "resolveJsonModule": true,
+    "allowImportingTsExtensions": true,
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["./*"]
+    },
+    "lib": ["ES2020", "DOM", "DOM.Iterable"],
+    "types": ["@dcloudio/types"]
+  },
+  "include": [
+    "*.ts",
+    "*.vue",
+    "pages/**/*.vue",
+    "api/**/*.ts",
+    "store/**/*.ts"
+  ],
+  "exclude": [
+    "node_modules",
+    "unpackage"
+  ]
+}

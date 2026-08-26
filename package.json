@@ -1,0 +1,33 @@
+{
+  "name": "health-app",
+  "version": "1.0.0",
+  "description": "健康管理 UniApp",
+  "scripts": {},
+  "dependencies": {
+    "@dcloudio/uni-app": "3.0.0-5000720260410001",
+    "@dcloudio/uni-app-plus": "3.0.0-5000720260410001",
+    "@dcloudio/uni-components": "3.0.0-5000720260410001",
+    "@dcloudio/uni-h5": "3.0.0-5000720260410001",
+    "@dcloudio/uni-mp-weixin": "3.0.0-5000720260410001",
+    "@types/leaflet": "^1.9.21",
+    "echarts": "^6.1.0",
+    "html5-qrcode": "^2.3.8",
+    "leaflet": "^1.9.4",
+    "pinia": "^2.1.7",
+    "tdesign-mobile-vue": "^1.14.1",
+    "vue": "^3.4.21",
+    "vue-echarts": "^8.0.1",
+    "vue-router": "^4.3.0"
+  },
+  "devDependencies": {
+    "@dcloudio/types": "^3.4.8",
+    "@dcloudio/uni-automator": "3.0.0-5000720260410001",
+    "@dcloudio/uni-cli-shared": "3.0.0-5000720260410001",
+    "@dcloudio/uni-mp-compiler": "3.0.0-5000720260410001",
+    "@dcloudio/vite-plugin-uni": "3.0.0-5000720260410001",
+    "@vue/tsconfig": "^0.5.1",
+    "sass": "^1.71.1",
+    "typescript": "^5.4.2",
+    "vite": "5.2.8"
+  }
+}

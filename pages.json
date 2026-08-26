@@ -1,0 +1,119 @@
+{
+  "pages": [
+    {
+      "path": "pages/index/index",
+      "style": {
+        "navigationBarTitleText": "健康管理"
+      }
+    },
+    {
+      "path": "pages/login/login",
+      "style": {
+        "navigationBarTitleText": "登录"
+      }
+    },
+    {
+      "path": "pages/register/register",
+      "style": {
+        "navigationBarTitleText": "注册"
+      }
+    },
+    {
+      "path": "pages/profile/profile",
+      "style": {
+        "navigationBarTitleText": "个人中心"
+      }
+    },
+    {
+      "path": "pages/sport/sport",
+      "style": {
+        "navigationBarTitleText": "运动记录"
+      }
+    },
+    {
+      "path": "pages/camera/camera",
+      "style": {
+        "navigationBarTitleText": "拍照记卡"
+      }
+    },
+    {
+      "path": "pages/barcode/barcode",
+      "style": {
+        "navigationBarTitleText": "条形码记卡"
+      }
+    },
+    {
+      "path": "pages/analysis/analysis",
+      "style": {
+        "navigationBarTitleText": "AI 健康分析"
+      }
+    },
+    {
+      "path": "pages/records/sport",
+      "style": { "navigationBarTitleText": "运动记录管理" }
+    },
+    {
+      "path": "pages/records/card",
+      "style": { "navigationBarTitleText": "饮食记卡管理" }
+    },
+    {
+      "path": "pages/records/ai",
+      "style": { "navigationBarTitleText": "AI 分析记录" }
+    },
+    {
+      "path": "pages/records/height",
+      "style": { "navigationBarTitleText": "身高变化记录" }
+    },
+    {
+      "path": "pages/records/weight",
+      "style": { "navigationBarTitleText": "体重变化记录" }
+    },
+    {
+      "path": "pages/article/article",
+      "style": {
+        "navigationBarTitleText": "健康资讯"
+      }
+    }
+  ],
+  "globalStyle": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "健康管理App",
+    "navigationBarBackgroundColor": "#FAF5F0",
+    "navigationBarTitleTextStyle": "black",
+    "backgroundColor": "#FAF5F0"
+  },
+  "tabBar": {
+    "color": "rgba(0,0,0,.60)",
+    "selectedColor": "#C75B39",
+    "backgroundColor": "#FFFFFF",
+    "borderStyle": "white",
+    "height": "49px",
+    "fontSize": "11px",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "🏠 首页"
+      },
+      {
+        "pagePath": "pages/sport/sport",
+        "text": "🏃 运动"
+      },
+      {
+        "pagePath": "pages/camera/camera",
+        "text": "📷 拍照"
+      },
+      {
+        "pagePath": "pages/analysis/analysis",
+        "text": "🤖 AI"
+      },
+      {
+        "pagePath": "pages/article/article",
+        "text": "📰 资讯"
+      },
+      {
+        "pagePath": "pages/profile/profile",
+        "text": "👤 我的"
+      }
+    ]
+  }
+}
