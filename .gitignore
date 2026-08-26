@@ -28,3 +28,7 @@ server/server/uploads/
 *.zip
 *.log
 npm-debug.log*
+
+# ===== 含个人信息的文档（不纳入版本库）=====
+20.*.pdf
+软著书_*.md
