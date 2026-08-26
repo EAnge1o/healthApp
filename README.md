@@ -112,11 +112,6 @@ npm run dev:h5
 | 目标 | `GET/POST /goal`、`POST /goal/:id/checkin` |
 | 资讯 | `GET /article`、`GET /article/:id`、`POST/DELETE /article` |
 
-## 📄 相关文档
-
-- `软著书_健康管理移动应用V1.0.md`：软件著作权申请文档
-- `20. 沈泽贤+吴桐+魏青松.pdf`：项目结课论文
-
 ## 📃 许可证
 
 本项目为课程设计作品，仅供学习交流使用。
