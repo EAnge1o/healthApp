@@ -1,5 +1,10 @@
 # 健康管理 App（HealthApp）
 
+[![uni-app](https://img.shields.io/badge/uni--app-Vue3%20%2B%20TypeScript-2B9939?logo=vue.js&logoColor=white)](https://uniapp.dcloud.net.cn)
+[![Node.js](https://img.shields.io/badge/Node.js-Express%20%2B%20TypeScript-339933?logo=node.js&logoColor=white)](https://nodejs.org)
+[![MySQL](https://img.shields.io/badge/MySQL-utf8mb4-4479A1?logo=mysql&logoColor=white)](https://mysql.com)
+[![AI](https://img.shields.io/badge/AI-Baidu%20%2B%20Doubao-8A2BE2)](#)
+
 一款基于 **uni-app** 的跨端个人健康管理应用，覆盖 **H5 / 微信小程序 / Android App** 三端，
 后端采用 **Node.js + Express + TypeScript + MySQL**，并集成 **百度 AI（菜品 / 条形码识别）** 与
 **豆包大模型（AI 健康分析）**。
